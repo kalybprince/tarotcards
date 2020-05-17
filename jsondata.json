@@ -1,0 +1,308 @@
+{
+    "card": [
+        {
+            "name": "Ace Of Cups",
+            "keywords": "New feelings, new love, awakening intuition, flowing emotion, imagination "
+        },
+        {
+            "name": "Ace of Pentacles",
+            "keywords": "Opportunity, healthy beginnings, investing, planting seeds, grounded "
+        },
+        {
+            "name": "Ace of Swords",
+            "keywords": "Realization, truth, intellect, clarity, communication"
+        },
+        {
+            "name": "Ace of Wands",
+            "keywords": "Birth, energy, inspiration, sexuality, self-image"
+        },
+        {
+            "name": "Ace of Swords",
+            "keywords": "Realization, truth, intellect, clarity, communication"
+        },
+        {
+            "name": "Eight of Cups",
+            "keywords": "Spirit quest, leaving behind, taking space, retreat, travel"
+        },
+        {
+            "name": "Eight of Pentacles",
+            "keywords": "meaningful work, precision, commitment, stocking up, repetition"
+        },
+        {
+            "name": "Eight of Swords",
+            "keywords": "Helpless thoughts, limiting beliefs, inner critic, excuses, victim mentality"
+        },
+        {
+            "name": "Ace of Wands",
+            "keywords": "Swiftness, progress, energy, air travel"
+        },
+        {
+            "name": "Five of Cups",
+            "keywords": "Sadness, mourning, disappointment, regret, suffering, emotional adjustment"
+        },
+        {
+            "name": "Five of Pentacles",
+            "keywords": "Lack of security, unstable, scarcity, thinking, alienation, illness, supportive friends"
+        },
+        {
+            "name": "Five of Swords",
+            "keywords": "Defeat, self-defeat, arguments, irritability, feeling attacked"
+        },
+        {
+            "name": "Five of Wands",
+            "keywords": "Competition, brainstorming, problems to solve, conflict"
+        },
+        {
+            "name": "Four of Cups",
+            "keywords": "Withdrawal, indifference, dissatisfaction, boredom, daydreaming"
+        },
+        {
+            "name": "Four of Pentacles",
+            "keywords": "Stable, cautious, protecting resources, boundaries, saving"
+        },
+        {
+            "name": "Four of Swords",
+            "keywords": "Rest, reflection, mental restoration, incubating ideas, vacation"
+        },
+        {
+            "name": "Four of Wands",
+            "keywords": "Results, rewards, celebration, teamwork, home"
+        },
+        {
+            "name": "Judgement",
+            "keywords": "Rite of passage, maturing, reviewing, transition"
+        },
+        {
+            "name": "Justice",
+            "keywords": "Fairness, balance, ethics, law, accountability"
+        },
+        {
+            "name": "King of Cups",
+            "keywords": "Wise, emotionally mature, experienced, composed, calm, healer, father"
+        },
+        {
+            "name": "King of Pentacles",
+            "keywords": "Wealthy, successful, practical, conservative, materialistic, stubborn, loving father"
+        },
+        {
+            "name": "Ace of Wands",
+            "keywords": "Authentic, leader, passionate, charismatic, experienced, energetic, influential, proud, sexual"
+        },
+        {
+            "name": "Knight of Cups",
+            "keywords": "Romantic, looking for love, fickle, emotional intensity, idealism, spiritual seeker, artist, flirt"
+        },
+        {
+            "name": "Knight of Pentacles",
+            "keywords": "Loyal, dependable, practical, hard working, cautious, attention to detail"
+        },
+        {
+            "name": "Knight of Swords",
+            "keywords": "Revolutionary, philosophical, impatient, rushing, explorer, debate"
+        },
+        {
+            "name": "Knight of Wands",
+            "keywords": "Adventurous, risk-taking, experimental, fun, passionate, travel"
+        },
+        {
+            "name": "Nine of Pentacles",
+            "keywords": "Earned rewards, fruits of labor, luxury, self-sufficiency, discipline"
+        },
+        {
+            "name": "Nine of Swords",
+            "keywords": "Worry, anxiety, insomnia, repressed thoughts"
+        },
+        {
+            "name": "Nine of Wands",
+            "keywords": "Wounded, experienced, guarded, perseverance, inner reserves"
+        },
+        {
+            "name": "Page of Cups",
+            "keywords": "Sensetive, kind, imaginative, romantic, gentle, new love, love letters"
+        },
+        {
+            "name": "Page of Pentacles",
+            "keywords": "Practical, cautious, student, new job or contract, new investment, new studies"
+        },
+        {
+            "name": "Page of Swords",
+            "keywords": "Thoughtful, curious, intellectual, writer, student"
+        },
+        {
+            "name": "Page of Wands",
+            "keywords": "Enthusiastic, adventurous, inspired, new desire, new journey, inspiring news"
+        },
+        {
+            "name": "Queen of Cups",
+            "keywords": "Empathetic, receptive, sensetive, introspective, psychic, emotional, loving, dreamer, counselor, mother"
+        },
+        {
+            "name": "Queen of Pentacles",
+            "keywords": "Protective, nurturing, resourceful, abundance, down to earth, fertile, healthy, ecologicalhomemaker, mother"
+        },
+        {
+            "name": "Queen of Swords",
+            "keywords": "Intelligent, truthful, clear communicator, self-aware, independant, teacher, writer"
+        },
+        {
+            "name": "Queen of Wands",
+            "keywords": "Creative, independant, confident, beautiful, passionate, friendly, optimistic, influential, sexual"
+        },
+        {
+            "name": "Seven of Cups",
+            "keywords": "Fantasy, illusion, creative brainstorming, altered states"
+        },
+        {
+            "name": "Seven of Pentacles",
+            "keywords": "Assessment, patience, trial and error, feedback, editing"
+        },
+        {
+            "name": "Seven of Swords",
+            "keywords": "Strategy, mental tests, deception, gathering information, breaking agreements"
+        },
+        {
+            "name": "Seven of Wands",
+            "keywords": "Defending what matters, threat, perseverance"
+        },
+        {
+            "name": "Six of Cups",
+            "keywords": "Kindness, caring, nostalgia, memories, childhood"
+        },
+        {
+            "name": "Six of Pentacles",
+            "keywords": "Financial flow, charity, assistance, giving back, generosity"
+        },
+        {
+            "name": "Six of Swords",
+            "keywords": "Transition, mental healing, retreat, support, moving, travel over water"
+        },
+        {
+            "name": "Six of Wands",
+            "keywords": "Recognition, role model, promotion, praise, self-confidence"
+        },
+        {
+            "name": "Strength",
+            "keywords": "Instinctive drives, inner strength, survival, courage"
+        },
+        {
+            "name": "Temperance",
+            "keywords": "Combining, creating, compromise, experimenting"
+        },
+        {
+            "name": "Ten of Cups",
+            "keywords": "Happy home, shared love, blessings, peace, family"
+        },
+        {
+            "name": "Ten of Pentacles",
+            "keywords": "Legacy, permanence, wealth, ancestors, wisdom, home"
+        },
+        {
+            "name": "Ten of Swords",
+            "keywords": "Rock bottom, finished, give up, closure"
+        },
+        {
+            "name": "Ten of Wands",
+            "keywords": "Responsibility, burden, obligation, success, stress"
+        },
+        {
+            "name": "The Chariot",
+            "keywords": "Momentum, competence, self-discipline, control, determination"
+        },
+        {
+            "name": "The Devil",
+            "keywords": "Attachments, restrictions, commitment, limitations"
+        },
+        {
+            "name": "The Emperor",
+            "keywords": "Power, structure, stability, authority, father"
+        },
+        {
+            "name": "The Empress",
+            "keywords": "Nurturing, creativity, sensuality, mother"
+        },
+        {
+            "name": "The Fool",
+            "keywords": "Trust, innocence, open mind, beginning"
+        },
+        {
+            "name": "The Hanged Man",
+            "keywords": "Surrender, new perspective, waiting, sacrifice, release"
+        },
+        {
+            "name": "The Hermit",
+            "keywords": "Solitude, introspection, perspective, wisdom, guidance"
+        },
+        {
+            "name": "The Hierophant",
+            "keywords": "Teacher, belief system, knowledge, conscientious, responsibility"
+        },
+        {
+            "name": "The High Priestess",
+            "keywords": "Inner wisdom, receptivity, spirituality, meditation"
+        },
+        {
+            "name": "The Lovers",
+            "keywords": "Love, union, cooperation, choice, sexuality"
+        },
+        {
+            "name": "The Magician",
+            "keywords": "Personal power, intention, will, resourcefulness"
+        },
+        {
+            "name": "The Moon",
+            "keywords": "The unconsious, the shadow self, confusion, dream, intuition"
+        },
+        {
+            "name": "The Star",
+            "keywords": "Optimism, renewal, boundlessness, peace, astrology"
+        },
+        {
+            "name": "The Sun",
+            "keywords": "Enthusiasm, playfulness, clarity, personal growth, self acceptance"
+        },
+        {
+            "name": "The Tower",
+            "keywords": "Sudden shock, destruction, questioning beliefs, chaos"
+        },
+        {
+            "name": "The World",
+            "keywords": "Integration, completion, options, wholeness, the earth, connection"
+        },
+        {
+            "name": "Three of Cups",
+            "keywords": "Friendship, celebration, fun, ritual "
+        },
+        {
+            "name": "Three of Pentacless",
+            "keywords": "Assistance, contribution, mentors, planning, teamwork, employment"
+        },
+        {
+            "name": "Three of Swords",
+            "keywords": "Loss, sorrow, betrayal, necessary, sacrifice"
+        },
+        {
+            "name": "Three of Wands",
+            "keywords": "Launching, long-term plans, foresight, things set in motion"
+        },
+        {
+            "name": "Two of Cups",
+            "keywords": "Equality, love, respect, sharing, harmony"
+        },
+        {
+            "name": "Two of Pentacles",
+            "keywords": "Adaptability, changes, multitasking, play"
+        },
+        {
+            "name": "Two of Swords",
+            "keywords": "Indecision, impartial, mediator, standstill"
+        },
+        {
+            "name": "Two of Wands",
+            "keywords": "Choice, potential, contemplation, threshold, planning"
+        },
+        {
+            "name": "Wheel of Fortune",
+            "keywords": "Taking action, change, movement, destiny, luck, expansion"
+        }
+    ]
+}
